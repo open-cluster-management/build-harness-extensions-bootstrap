@@ -1,6 +1,6 @@
 # Build Harness Bootstrap
 
-This repo contains a thin makefile that simply pulls our fork of [build-harness](https://github.com/open-cluster-management/build-harness) and our [build-harness-extensions](https://github.com/open-cluster-management/build-harness-extensions) using the method documented in the [build-harness-extensions readme](https://github.com/open-cluster-management/build-harness-extensions#extensions-to-build-harness).  
+This repo contains a thin makefile that simply pulls our fork of [build-harness](https://github.com/stolostron/build-harness) and our [build-harness-extensions](https://github.com/stolostron/build-harness-extensions) using the method documented in the [build-harness-extensions readme](https://github.com/stolostron/build-harness-extensions#extensions-to-build-harness).  
 
 ## Use
 
